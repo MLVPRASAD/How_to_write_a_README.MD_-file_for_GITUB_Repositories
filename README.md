@@ -4,7 +4,7 @@ This is a Repository to write a README.MD a markdown file for Github Projects
 
 #  ![Markdown Here logo](https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png) Markdown Here For Github Repositories
 
-[**Visit the website.**](http://markdown-here.com)<br>
+[**Visit the website.**](http://markdown-here.com)
 [**Get it for Chrome.**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)<br>
 [**Get it for Firefox.**](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/)<br>
 [**Get it for Safari.**](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz)<br>
