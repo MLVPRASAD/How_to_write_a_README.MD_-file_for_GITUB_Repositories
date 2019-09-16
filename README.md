@@ -1,2 +1,2 @@
-# How_to_write_a_README.MD_-file_for_GITUB_Repositories
+# How to write a README.MD file for GITUB Repositories
 This is a Repository to write a README.MD a markdown file for Github Projects
